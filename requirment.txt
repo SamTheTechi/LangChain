@@ -1,0 +1,8 @@
+langchain
+langchain_google_genai
+dotenv
+langgraph
+langchain_core
+langchain_community
+pinecone
+langchain_pinecone
